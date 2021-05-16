@@ -42,4 +42,5 @@ function funcionInventada2($edad)
 echo "Tus puntos son :".funcionInventada2(54);
 echo "La cadena queda :".funcionInventada1("amigo");
 
+echo "Esto es para un commit en GitHub";
 ?>
